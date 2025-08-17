@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\25.0816",
+    "\\25.0816\\25.0816"
   ],
-  "SelectedNode": "\\.gitattributes",
+  "SelectedNode": "\\25.0816\\25.0816\\25.0816.vcxproj",
   "PreviewInSolutionExplorer": false
 }
